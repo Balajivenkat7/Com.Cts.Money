@@ -1,0 +1,5 @@
+Com\Cts\Money\Pages\SignupPage.class
+Com\Cts\Money\Pages\LoginPage.class
+Com\Cts\Money\Pages\InboxPage.class
+Com\Cts\Money\Utils\Testutil.class
+Com\Cts\Money\Base\Testbase.class

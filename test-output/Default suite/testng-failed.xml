@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Com.Cts.Money.Script.TestScript">
+        <methods>
+          <include name="VaildateTitle"/>
+          <include name="VaildateRadio"/>
+          <include name="Setup"/>
+          <include name="VaildateUrl"/>
+          <include name="ValidateDay"/>
+          <include name="ValidateYear"/>
+          <include name="VaildateCreate"/>
+          <include name="ValidateMonth"/>
+          <include name="Teardown"/>
+          <include name="VaildateLastname"/>
+          <include name="VaildateFirstname"/>
+        </methods>
+      </class> <!-- Com.Cts.Money.Script.TestScript -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

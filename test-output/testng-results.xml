@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-30T11:39:41 IST" name="Default suite" finished-at="2021-04-30T11:40:04 IST" duration-ms="23376">
+    <groups>
+    </groups>
+    <test started-at="2021-04-30T11:39:41 IST" name="Default test" finished-at="2021-04-30T11:40:04 IST" duration-ms="23376">
+      <class name="Com.Cts.Money.Script.TestScript">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:39:41 IST" name="Setup" finished-at="2021-04-30T11:40:03 IST" duration-ms="21842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VaildateCreate()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="VaildateCreate" finished-at="2021-04-30T11:40:03 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VaildateCreate -->
+        <test-method signature="VaildateFirstname()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="VaildateFirstname" finished-at="2021-04-30T11:40:03 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VaildateFirstname -->
+        <test-method signature="VaildateLastname()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="VaildateLastname" finished-at="2021-04-30T11:40:03 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VaildateLastname -->
+        <test-method signature="VaildateRadio()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="VaildateRadio" finished-at="2021-04-30T11:40:03 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VaildateRadio -->
+        <test-method signature="VaildateTitle()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="VaildateTitle" finished-at="2021-04-30T11:40:03 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VaildateTitle -->
+        <test-method signature="VaildateUrl()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="VaildateUrl" finished-at="2021-04-30T11:40:03 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VaildateUrl -->
+        <test-method signature="ValidateDay()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="ValidateDay" finished-at="2021-04-30T11:40:03 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDay -->
+        <test-method signature="ValidateMonth()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:03 IST" name="ValidateMonth" finished-at="2021-04-30T11:40:04 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateMonth -->
+        <test-method signature="ValidateYear()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:04 IST" name="ValidateYear" finished-at="2021-04-30T11:40:04 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateYear -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Com.Cts.Money.Script.TestScript@7fa98a66]" started-at="2021-04-30T11:40:04 IST" name="Teardown" finished-at="2021-04-30T11:40:04 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Com.Cts.Money.Script.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
